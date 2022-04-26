@@ -1,0 +1,17 @@
+id,created_at,address_id,market_segment,Type,default_capacity
+3879,6/29/2016,11717,city_center,Hotel,50
+2932,11/5/2018,14985,airport,Hotel,100
+2671,9/12/2018,14772,airport,Discounter,20
+51,11/16/2018,15041,airport,Official,30
+2782,10/10/2018,14919,airport,Official,50
+3024,8/9/2015,8370,city_center,Hotel,25
+4282,9/28/2018,14878,airport,Discounter,5
+3799,8/20/2018,14681,airport,Hotel,20
+2950,10/12/2015,10913,station,PPI,5
+2882,7/21/2017,12784,city_center,PPI,20
+3585,1/7/2016,11180,station,Official,5
+3275,7/20/2016,11762,event,PPO,10
+3572,2/5/2018,13636,station,PPI,10
+2792,9/18/2018,14786,airport,Hotel,20
+4412,9/19/2018,14787,airport,Hotel,21
+3577,9/20/2018,14788,airport,Hotel,22
